@@ -1,6 +1,8 @@
 ### Based on Tutorials:
-o https://yourbasic.org/golang/http-server-example/
-o https://tutorialedge.net/golang/go-docker-tutorial/
+<ul>
+  <li>https://yourbasic.org/golang/http-server-example/</li>
+  <li>https://tutorialedge.net/golang/go-docker-tutorial/</li>
+</ul>
 
 ### How to Launch
 1. Install docker + docker-compose on your VM
